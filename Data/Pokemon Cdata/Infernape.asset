@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 28f29b11d90c80d44a204b8bf2091aa9, type: 3}
+  m_Name: Infernape
+  m_EditorClassIdentifier: 
+  Pokemonname: Infernape
+  Description: monke
+  Type1: 7
+  Type2: 6
+  fSprite: {fileID: 9100000, guid: fa11c6dffbb5a984ab371e224c76c8dd, type: 2}
+  bSprite: {fileID: 9100000, guid: fa11c6dffbb5a984ab371e224c76c8dd, type: 2}
+  sfSprite: {fileID: 9100000, guid: fa11c6dffbb5a984ab371e224c76c8dd, type: 2}
+  sbSprite: {fileID: 9100000, guid: fa11c6dffbb5a984ab371e224c76c8dd, type: 2}
+  DoLighting: 1
+  CanMegaEvolve: 0
+  Maxhp: 76
+  Attack: 104
+  Defense: 71
+  Specialattack: 104
+  Specialdefense: 71
+  Speed: 108
+  LearnableMove:
+  - move: {fileID: 0}
+    level: 0
+  - move: {fileID: 0}
+    level: 0
+  - move: {fileID: 0}
+    level: 0
+  - move: {fileID: 0}
+    level: 0
